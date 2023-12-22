@@ -19,3 +19,4 @@ let isLoggedIn =false
 
 console.log(typeof "yogesh");
 console.log(typeof undefined);
+console.log(typeof null);
